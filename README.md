@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/subrata-code/Dsa-Journey/tree/master/1518-water-bottles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subrata-code/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -71,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
