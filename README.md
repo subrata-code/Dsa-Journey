@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
+| [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
