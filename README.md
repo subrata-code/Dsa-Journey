@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/subrata-code/Dsa-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/subrata-code/Dsa-Journey/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0509-fibonacci-number) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subrata-code/Dsa-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/subrata-code/Dsa-Journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
