@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/subrata-code/Dsa-Journey/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/subrata-code/Dsa-Journey/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/subrata-code/Dsa-Journey/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/subrata-code/Dsa-Journey/tree/master/1518-water-bottles) |
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/subrata-code/Dsa-Journey/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subrata-code/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subrata-code/Dsa-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
