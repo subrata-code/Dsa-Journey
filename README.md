@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/subrata-code/Dsa-Journey/tree/master/0125-valid-palindrome) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/subrata-code/Dsa-Journey/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/subrata-code/Dsa-Journey/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subrata-code/Dsa-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/subrata-code/Dsa-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
