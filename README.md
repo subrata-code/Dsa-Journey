@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
+| [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/subrata-code/Dsa-Journey/tree/master/0206-reverse-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
