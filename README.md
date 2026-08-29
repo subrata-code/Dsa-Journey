@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subrata-code/Dsa-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/subrata-code/Dsa-Journey/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/subrata-code/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/subrata-code/Dsa-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/subrata-code/Dsa-Journey/tree/master/0412-fizz-buzz) |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subrata-code/Dsa-Journey/tree/master/0053-maximum-subarray) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
