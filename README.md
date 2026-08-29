@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subrata-code/Dsa-Journey/tree/master/0053-maximum-subarray) |
+| [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subrata-code/Dsa-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/subrata-code/Dsa-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/subrata-code/Dsa-Journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/subrata-code/Dsa-Journey/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0509-fibonacci-number) |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/subrata-code/Dsa-Journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subrata-code/Dsa-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
