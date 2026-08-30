@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/subrata-code/Dsa-Journey/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/subrata-code/Dsa-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subrata-code/Dsa-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/subrata-code/Dsa-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
