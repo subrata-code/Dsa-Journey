@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/subrata-code/Dsa-Journey/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/subrata-code/Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
 | [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/subrata-code/Dsa-Journey/tree/master/0877-stone-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/subrata-code/Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/subrata-code/Dsa-Journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/subrata-code/Dsa-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/subrata-code/Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
