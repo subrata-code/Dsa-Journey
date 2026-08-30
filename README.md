@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/subrata-code/Dsa-Journey/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/subrata-code/Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/subrata-code/Dsa-Journey/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/subrata-code/Dsa-Journey/tree/master/0486-predict-the-winner) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/subrata-code/Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/subrata-code/Dsa-Journey/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subrata-code/Dsa-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/subrata-code/Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subrata-code/Dsa-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/subrata-code/Dsa-Journey/tree/master/3731-find-missing-elements) |
