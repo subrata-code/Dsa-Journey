@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subrata-code/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/subrata-code/Dsa-Journey/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/subrata-code/Dsa-Journey/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/subrata-code/Dsa-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/subrata-code/Dsa-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subrata-code/Dsa-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/subrata-code/Dsa-Journey/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/subrata-code/Dsa-Journey/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/subrata-code/Dsa-Journey/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/subrata-code/Dsa-Journey/tree/master/0283-move-zeroes) |
